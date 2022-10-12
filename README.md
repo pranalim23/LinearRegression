@@ -1,4 +1,4 @@
-# Lending Club Case Study
+# Linear Regression Boom Bikes Model
 > Multiple linear regression model is built to understand how exactly the demands of BoomBikes vary with different features
 
 ## Table of Contents
